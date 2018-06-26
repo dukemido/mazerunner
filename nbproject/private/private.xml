@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/objects/weapons/GreenBullet.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/mapobjects/gifts/Gift.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/objects/armor/BlackArmor.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/controllers/SaveFactory.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/objects/armor/Armor.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/mapobjects/bombs/BlackBomb.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/objects/weapons/IWeapon.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/objects/weapons/ShotDirection.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/objects/armor/IArmor.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/controllers/Game.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/objects/weapons/BlackBullet.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/views/MainFrame.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/mapobjects/gifts/YellowGift.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/mapobjects/gifts/PinkGift.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/objects/armor/SteelArmor.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/models/objects/weapons/Weapon.java</file>
+            <file>file:/C:/Users/Muhammad/Documents/NetBeansProjects/MazeRunner/src/controllers/observer/Subject.java</file>
+        </group>
+    </open-files>
+</project-private>
